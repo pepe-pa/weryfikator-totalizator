@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HackYeah Lotto</string>
+    <string name="biometric_auth_description">W celu potwierdzenia tożsamosci potwierdz rejestracje używając odsiska palca</string>
+    <string name="biometric_auth_register_title">Rejestracja</string>
+    <string name="biometric_auth_register_subtitle">Weryfikacja tożsamoci</string>
+    <string name="auth_failed">Autentykacja nie powiodła się</string>
+    <string name="auth_error">Błąd autentykacji</string>
+    <string name="auth_success">Autentykacja prawidłowa</string>
+</resources>
